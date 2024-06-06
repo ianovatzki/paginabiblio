@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(218, 190, 156) !important;
+}
+.title{
+    margin: 2%;
+}
+.form-control{
+    width: 30% !important;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}

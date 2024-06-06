@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(218, 190, 156) !important;
+    font-family: 'Arial', sans-serif;
+}
+.title{
+    margin: 2%;
+}
+.form-control{
+    width: 30% !important;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+.custom-nav {
+    font-size: 1.2rem; 
+    background-color: #f7f7f7; 
+    border-radius: 0.5rem; 
+    padding: 0.5rem; 
+}
+
+.custom-nav .nav-link {
+    color: #ffffff; 
+    padding: 1rem; 
+    transition: background-color 0.3s ease; 
+}
+
+.custom-nav .nav-link:hover {
+    background-color: #080808; 
+    color: #ffffff; 
+}
